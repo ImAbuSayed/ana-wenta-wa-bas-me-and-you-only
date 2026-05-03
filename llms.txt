@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ana Wenta Wa Bas – Me and You Only |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 25, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ana-wenta-wa-bas-me-and-you-only/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي تعال، الشوق في عيوني نار
+> طول الليل بنادي، والقلب في انبهار
+> حياتي بين يديك، والروح لك تميل
+> خذني في أحضانك، هذا العشق دليل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
