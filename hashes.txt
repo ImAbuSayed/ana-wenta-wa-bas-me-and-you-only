@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ana Wenta Wa Bas – Me and You Only
+
+This log tracks the cryptographic history and versioning for the song **Ana Wenta Wa Bas – Me and You Only** (ana-wenta-wa-bas-me-and-you-only).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:45:09.392230 | `v1` | `92b412c2a4ebf5201d0cda9b4fb09d08708e0b99b6b4b5397f71d8ad4f0baab3` | `18ae4da80f3c485807f7f1a33fed2931bff836596fd40a58f206ae84082b5f10` | `2026-05-09_ana-wenta-wa-bas-me-and-you-only-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
